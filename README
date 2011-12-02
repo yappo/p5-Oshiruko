@@ -1,0 +1,6 @@
+HOW TO USE
+
+use Acme::Oshiruko;
+
+my $s__ny = Acme::Oshiruko->new('lived__r');
+$hid_d_n->where_to_go # => 'lived__r/tk/ope'
